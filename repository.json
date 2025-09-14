@@ -1,0 +1,13 @@
+{
+  "name": "HA Selenium Add-on",
+  "slug": "ha-selenium-addon",
+  "description": "Selenium Standalone Chrome for Home Assistant",
+  "url": "https://github.com/Welshdragon80/HA-Selenium-AddOn",
+  "maintainer": "Welshdragon80",
+  "version": "1.0.0",
+  "startup": "services",
+  "arch": ["amd64", "armv7", "aarch64"],
+  "addons": [
+    "selenium_chrome"
+  ]
+}
