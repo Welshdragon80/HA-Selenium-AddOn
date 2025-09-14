@@ -2,7 +2,7 @@
   "name": "Selenium Standalone Chrome",
   "version": "1.0.0",
   "slug": "selenium_chrome",
-  "description": "Run a Selenium standalone Chrome server inside Home Assistant OS",
+  "description": "Run Selenium with Chrome for web automation",
   "arch": ["amd64", "armv7", "aarch64"],
   "startup": "services",
   "ports": {
